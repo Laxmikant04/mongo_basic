@@ -1,0 +1,23 @@
+{
+  "name": "mongoose_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laxmikant04/node.git"
+  },
+  "author": "laxmikant04 <laxmikant041094@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Laxmikant04/node/issues"
+  },
+  "homepage": "https://github.com/Laxmikant04/node#readme",
+  "dependencies": {
+    "mongodb-topology-manager": "2.1.0",
+    "mongoose": "5.9.13"
+  }
+}
