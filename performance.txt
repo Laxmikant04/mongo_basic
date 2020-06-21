@@ -1,0 +1,11 @@
+How-does-MongoDB-provide-high-performance?
+
+1. It uses BSON instead of JSON for storing data. BSON is binary JSON. Being Binary it improves processing efficiency of the MongoDB.
+2. It uses B tree indexing so that they are sorted.
+3. Sharding approch improves the query performance in large dataset.
+
+Availability?--
+MongoDB provides high availability using master-slave replica set architecture .
+Adding more number of slave improves the read query performance as well but it does not improves the write query performance as wtrtting aswalys happens 
+at master node.
+
