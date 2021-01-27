@@ -10,7 +10,7 @@ db.once('open', function() {
   // we're connected!
   console.log("connected")
 
-  var kittyDoc = new KittyModel({ name: 'Silence',value:15 });
+  var kittyDoc = new KittyModel({ name: 'Silence',value:15 }); 
   
 //   kittyDoc.save((err,doc) => {
 //     if(err) console.log("err");

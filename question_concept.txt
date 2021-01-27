@@ -13,3 +13,14 @@ getLastError
 
 connect-vs-createconnection --- https://stackoverflow.com/questions/40818016/connect-vs-createconnection
 index - https://thecodebarbarian.com/whats-new-in-mongoose-5-2-syncindexes 
+
+
+
+aggregation - 
+match
+lookup
+group
+project
+limit
+skip
+
