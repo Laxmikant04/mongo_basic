@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Laxmikant04/node#readme",
   "dependencies": {
     "mongodb-topology-manager": "2.1.0",
-    "mongoose": "5.9.13"
+    "mongoose": "5.13.15"
   }
 }
